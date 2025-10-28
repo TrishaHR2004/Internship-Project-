@@ -25,12 +25,6 @@ This project analyzes investment data to uncover meaningful insights into invest
 
 -Jupyter Notebook for code execution and visualization
 
-🔹Project Structure
-
--Data_set-2-Copy.csv: Dataset file containing participant investment data.
--Jupyter Notebook files: Contain the code for data exploration, analysis, and visualization.
--Output images and visualizations generated from the analysis.
-
 🔹How This Project Helps Business Analysts
 
 This project enhances key business analyst skills such as data gathering, cleaning, visualization, and interpreting financial data to inform business strategies and risk management. It also improves the ability to communicate complex analytical results effectively to stakeholders.
