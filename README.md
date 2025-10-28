@@ -13,6 +13,7 @@ This project analyzes investment data to uncover meaningful insights into invest
 -Perform correlation and risk analysis to understand relationships between variables and aid diversification strategies.
 
 🔹Technologies Used
+
 -Python (pandas, matplotlib, seaborn)
 -Jupyter Notebook for code execution and visualization
 
